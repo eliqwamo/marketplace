@@ -1,9 +1,10 @@
 export default {
-  onyx: "#474448",
-  raisin_black: "#2d232e",
-  bone: "#e0ddcf",
+  onyx: "#475B63",
+  raisin_black: "#96a7b0",
+  bone: "#BACDB0",
   wenge: "#534b52",
-  isabelline: "#f1f0ea",
-  blue: '#34E5FF',
-  green: '#9EE493'
+  isabelline: "#F3E8EE",
+  blue: '#729B79',
+  green: '#9EE493',
+  white: '#ffffff'
 };

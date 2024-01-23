@@ -24,8 +24,7 @@ const Authentication = () => {
         setIsLoading(true)
         try {
             await signInWithEmailAndPassword(auth,email,password)
-            .then(user => {
-                console.log(user);  
+            .then(user => { 
                 setIsLoading(false) 
             })
         } catch (error) {
